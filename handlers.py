@@ -1,0 +1,1 @@
+from quanthare.strategy.services.strategies import StrategyHandler

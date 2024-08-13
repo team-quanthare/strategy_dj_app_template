@@ -1,0 +1,53 @@
+*.pyc
+/env
+/system/__pycache__/*.pyc
+/chat/__pycache__/*.pyc
+/dashboard/__pycache__/*.pyc
+/fbConnector/__pycache__/*.pyc
+/intent/__pycache__/*.pyc
+/layout/__pycache__/*.pyc
+/log/__pycache__/*.pyc
+/main/__pycache__/*.pyc
+/main/migration/__pycache__/*.pyc
+/nlg/__pycache__/*.pyc
+/officeInformation/__pycache__/*.pyc
+/personality/__pycache__/*.pyc
+/preregistration/__pycache__/*.pyc
+/presenter/__pycache__/*.pyc
+/questionnaire/__pycache__/*.pyc
+/searchEngine/__pycache__/*.pyc
+/session/__pycache__/*.pyc
+/story/__pycache__/*.pyc
+/userPersona/__pycache__/*.pyc
+*.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.sqlite3
+*.sqlite3-journal
+
+# https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
+.vscode/*
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# cicd
+.env
+config/settings/local_settings.py
+static/cportalassets/gmap/weathers/weather_precipitation_new_12767_7560.png
+static/cportalassets/gmap/weathers/weather_precipitation_new_12767_7560.png
+static/cportalassets/gmap/weathers/weather_precipitation_new_12767_7560.png
+static/cportalassets/gmap/weathers/weather_wind_new_12767_7560.png
+static/cportalassets/gmap/weathers/weather_precipitation_new_12767_7560.png
+
+# MacOS's unnecessary data
+.DS_Store

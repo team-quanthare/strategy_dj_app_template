@@ -1,1 +1,1 @@
-from quanthare.strategy.strategies import StrategyHandler
+from quanthare.strategy.services.strategies import StrategyHandler
